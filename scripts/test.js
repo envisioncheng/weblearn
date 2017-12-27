@@ -1,1 +1,1 @@
-document.getElementById("#a").innerHTML="good";
+document.getElementById("a").innerHTML="good cheng";
